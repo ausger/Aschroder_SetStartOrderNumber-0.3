@@ -1,0 +1,9 @@
+{
+    "name":"aschroder/magento_setstartordernumber",
+    "license": "GPLv3",
+    "type": "magento-module",
+    "description":"Ashley Schroder's Set Custom Order Number from Magento Connect",
+    "require": {
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
